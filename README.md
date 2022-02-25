@@ -1,2 +1,1 @@
-# C-26-Leonardo
-XD
+# Solucion-del-proyecto-C26-v3
